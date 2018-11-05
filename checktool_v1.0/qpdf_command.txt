@@ -1,0 +1,1 @@
+qpdf --password= --decrypt path_of_origin_pdf path_of_output_pdf
